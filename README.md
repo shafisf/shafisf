@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shafisf
+- 👋 Hi, I’m Shafi Sherief
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Ethical hacking, Penitration Testing 
 - 💞️ I’m looking to collaborate on Cyber security
